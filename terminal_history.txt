@@ -1,0 +1,32 @@
+    1  history
+    2  conda activate dev
+    3  cd c:/RajBo*/Challenge-13
+    4  git config --global user.name Raj Tolani
+    5  git config --global user.email admin@tolanicollection.com
+    6   git config --list
+    7  git clone https://github.com/rajtolani/Challenge-13-StartupRiskAnalysis.git
+    8  cd Ch*
+    9  git status
+   10  git add .
+   11  git status
+   12  git commit -m "This version has the original starter files provided by the Fintech BootCamp Staff."
+   13  git push
+   14  git status
+   15  ls
+   16  git rm GC_*
+   17  git commit -m " Removed the file GC_venture_funding_with_deep_learning.ipynb"
+   18  git status
+   19  git add .
+   20  git commit -m "This commit has all the Readme files and code for this Challenge"
+   21  git push
+   22  git status
+   23  git add .
+   24  git commit -m "Removed reduntant cells in  venture_funding_with_deep_learning_optimize4.ipynb"
+   25  git push
+   26  git status
+   27  git status
+   28  git add .
+   29  git add -m "Final Submission"
+   30  git commit -m "Final Submission"
+   31* 
+   32   history > terminal_history.txt
